@@ -31,8 +31,24 @@
 - **AI & Agents** - 探索 AI Agent 的实际应用，以及 AI 与开发工作流的结合
 - **Product & Entrepreneurship** - 关注 AI 产品，从想法、验证到落地的完整过程
 
+## Contact
+
+<p>
+  <a href="https://github.com/lianliana">
+    <img src="https://img.shields.io/badge/GitHub-lianliana-181717?style=flat-square&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="mailto:1170927583@qq.com">
+    <img src="https://img.shields.io/badge/Email-1170927583%40qq.com-1683FF?style=flat-square&logo=tencentqq&logoColor=white" alt="Email 1170927583@qq.com" />
+  </a>
+  <a href="https://github.com/lianliana/lianliana/issues/new">
+    <img src="https://img.shields.io/badge/联系我-Open%20an%20Issue-6C63FF?style=flat-square" alt="Open an issue to contact me" />
+  </a>
+</p>
+
+如果你也对前端、AI Agent 或 AI 产品感兴趣，欢迎通过 GitHub 或邮件联系我。
+
 ## Working Philosophy
 
 > Keep it simple, make it reusable, and let tools handle the repetitive work.
 
-持续学习，也持续创造。欢迎通过 GitHub 交流技术与想法。
+持续学习，也持续创造。
